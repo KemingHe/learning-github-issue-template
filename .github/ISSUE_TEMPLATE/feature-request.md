@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 > [!IMPORTANT]
-> Add the appropriate assignees and project label, then remove this note.
+> Add the appropriate assignees and project, then remove this note.
 
 ## Problem
 
