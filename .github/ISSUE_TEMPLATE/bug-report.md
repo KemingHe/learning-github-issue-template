@@ -1,39 +1,30 @@
 ---
 name: Bug report
-about: Submit a bug report to let our team know of any issues
-title: ':bug: bug(source of the bug): description of the bug'
+about: Submit a bug report to notify our team
+title: '🐛 bug(component): brief description'
 labels: 'bug'
-assignees: 'KemingHe'
+assignees: ''
 
 ---
 
-## Description
+> [!IMPORTANT]
+> Add the appropriate assignees and project label, then remove this note.
 
-### Expected Behavior
+## What happened?
 
-[What's supposed to happen, screenshot if helpful]
-
-### Actual Behavior
-
-[What actually happened, screenshot if helpful]
+**Expected:** [What should happen]
+**Actual:** [What actually happened]
 
 ## Steps to Reproduce
 
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+1. ...
+2. ...
+3. See error
 
-Bug walkthrough if helpful: [Loom recording](link)
+Walkthrough recording: [Loom link](link)
 
 ## Environment
 
-- Platform: [e.g. Desktop, Mobile]
-- Device: [e.g. PC, iPhone6]
-- OS: [e.g. macOS, iOS8.1]
-- Browser [e.g. chrome safari]
-- Version [e.g. 22]
-
-## Additional Context
-
-Anything else that's relevant to the bug.
+- OS: [e.g. macOS 14.0]
+- Browser: [e.g. Chrome 120] (if applicable)
+- Version: [app/project version]
